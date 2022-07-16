@@ -1,0 +1,1200 @@
+<!DOCTYPE html>  (PROJECT IN IPT)
+<html>
+<head>
+<title>PROJECT IN IPT</title>
+<style>
+    body {
+        background-image: url('yellow.jpeg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        border: white 3px;
+        border-style: double;
+        border-radius: 10px;
+        padding-bottom: 500px;
+    }
+    .button {
+        display: inline-flexbox;
+        height: 70px;
+        width: 70px;
+        padding: 0px;
+        border-radius: 50px;
+        overflow: hidden;
+        background-color: rgb(255, 98, 125);
+        align-content: center;
+        margin: 3%;
+        border-color: transparent;
+    }
+    h1 {
+        border: 5px solid black;
+        outline-style: outset;
+    }
+    td {
+        word-wrap: break-word;
+        background-color: rgb(255, 137, 156);
+        opacity: 65%;
+        text-align: center  ;
+   
+    hr {
+        color: antiquewhite;
+    }
+    #d1 {
+        background-color: Yellow;
+        color: white;
+    }
+    #d2 {
+        background-color: transparent;
+        color: white;
+    }
+    #b2:hover{
+        background-color:rgb(204, 128, 255); transform: scale(1.2);
+    }
+    #b1:hover{
+        background-color:rgb(252, 222, 126); transform: scale(1.2);
+    }
+    h1:hover {background-color: rgb(182, 126, 235); transform: scale(.9);}
+    h3:hover {background-color: rgb(182, 126, 235); transform: scale(1.3)}
+    td:hover {background-color: rgb(182, 126, 235); transform: matrix3d(1.3)}
+</style>
+</head>
+<center>
+    <h1>Final Project</h1>
+<h3> Managuelod,  Johsua S. </h3>
+<h3> BSIT-2E</h3>
+</center>
+
+
+
+<body>
+<form>
+    <center>
+        <table>
+        <hr>
+            
+            
+            <tr>
+            <td><a href="ACTIVITY 4.html">
+                <button id="b2" type="button"
+            <span>
+            <img src="act.jpeg" alt="button" width="50" height="50">
+            </span>
+            </button>
+            </a>ACTIVITY 1</td>
+            <td> INTRODUCE YOURSELF (ALREADY DONE IN GMEET)</td>
+                  
+            <tr>
+                <td id="d1"><a href="Activity 2.html">
+                    <button id="b1" type="button" class="button">
+                        <span>
+                            <img src="act.jpeg" alt="button" width="50" height="50">
+                        </span>
+                    </button>
+                </a>ACTIVITY 2</td>
+                
+                <td>CREATE A WEBPAGE OUTPUT </td>
+            
+            
+            <tr>
+            <td id="d2"><a href="Activity 3.html">
+            <button id="b2" type="button" class="button">
+            <span>
+            <img src="act.jpeg" alt="button" width="50" height="50">
+            </span>
+            </button>
+            </a>ACTIVITY 3</td>
+            <td> FAVOURITE APPLICATION/WEBSITE</td>
+            </tr>
+            
+            
+            <tr>
+            <td id="d2"><a href="Activity 4.html">
+            <button id="b2" type="button" class="button">
+            <span>
+            <img src="act.jpeg" alt="button" width="50" height="50">
+            </span>
+            </button>
+            </a>ACTIVITY 4</td>
+            <td> MENU/PERSONAL INFORMATION</td>
+            
+            
+            <tr>
+            <td id="d2"><a href="5(1).html">
+            <button id="b2" type="button" class="button">
+            <span>
+            <img src="act.jpeg" alt="button" width="50" height="50">
+            </span>
+            </button>
+            </a>ACTIVITY 5</td>
+            <td> MY FAMILY</td>
+            </tr>
+            </table>
+            </center>
+            </form>
+            </body>
+            </html> 
+
+(ACTIVITY 2)
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Second Activity</title>
+</head>
+<body style="background-image: url('kpop.jpg')">
+<center>
+<h1 style="color: white; border: 2px solid #FF5349;" >MY SECOND ACTIVITY</h1>
+<hr></hr>
+<p style="color: white">Good day! Let's try THE HTML PRACTICE</p>
+<hr></hr>
+<table>
+<tr>
+<th style="color: #fcd7ad; text-decoration: underline">FACEBOOK</th>
+</tr>
+<tr>
+<td style="color: #fcd7ad;">pinili ko din po yung Facebook kase mas napapadali ang communication. Kahit na wala kang load magagamit mo ang facebook para makusap mo ang mga taong gusto mo makausap kahit na malayo at wala kang load.</td>
+</tr>
+<tr>
+<th style="color: red; text-decoration: underline">YOUTUBE</th>
+</tr>
+<tr>
+<td style="color: red;">pinili ko din po yung youtube kase isa din po itong source ng information. Maraming matututunan na trivia and tutorials.</td>
+</tr>
+<tr>
+<th style="color: #378BF1; text-decoration: underline">INSTAGRAM</th>
+</tr>
+<tr>
+<td style="color: #378BF1;">pinili ko din po ang instagram bukod sa mas mapapadali ang communication mas naeexpress mo ang iyong sarili sa pamamagitan ng pag aaupload ng pictures and videos kahit tiktok.</td>
+</tr>
+<tr>
+<th style="color: yellow; text-decoration: underline">TWITTER</th>
+</tr>
+<tr>
+<td style="color: yellow;"> isa din po sa pinili ko yung twitter dahil napapadali din po ang pakikipag socialize ko sa ibang tao at nauupdte sa mga new</td>
+</tr>
+<tr>
+<th style="color: #9ACD32; text-decoration: underline">GOOGLE</th>
+</tr>
+<tr>
+<td style="color: #9ACD32;"> pinili ko po yung google kase jan kumukuha ng information. Bukod s information marami kang matututunan. Source ng information din ang google.</td>
+</tr>
+</table>
+<br></br>
+</table>
+</body>
+<body>
+<table style="border: 4px outset gray;">
+<hr></hr>
+<tr>
+<th rowspan="6" style="border: 2px inset gray; color: #fcd7ad;">SEARCH</th>
+<th colspan="2" style="border: 2px inset gray; color: #fcd7ad;">BROWSER</th>
+<th style="border: 2px inset gray; color: #fcd7ad;">WEBSITE</th>
+<th style="border: 2px inset gray; color: #fcd7ad;">LINKS</th>
+</tr>
+<tr>
+<td style="color: #fcd7ad; border: 2px inset gray;">CHROME</td>
+<td style="color: #fcd7ad; border: 2px inset gray;">FIREFOX</td>
+<td style="color: #fcd7ad; border: 2px inset gray;">FACEBOOK</td>
+<td style="color: #fcd7ad; border: 2px inset gray;"><a href="https://www.facebook.com/" target="_blank">https://www.facebook.com/</a></td>
+</tr>
+<tr>
+<td style="color: #fcd7ad; border: 2px inset gray;">CHROME</td>
+<td style="color: #fcd7ad; border: 2px inset gray;">FIREFOX</td>
+<td style="color: #fcd7ad; border: 2px inset gray;">YOUTUBE</td>
+<td style="color: #fcd7ad; border: 2px inset gray;"><a href="https://www.youtube.com/" target="_blank">https://www.youtube.com/</a></td>
+</tr>
+<tr>
+<td style="color: #fcd7ad; border: 2px inset gray;">CHROME</td>
+<td style="color: #fcd7ad; border: 2px inset gray;">FIREFOX</td>
+<td style="border: 2px inset gray; color: #fcd7ad;">INSTAGRAM</td>
+<td style="border: 2px inset gray; color: #fcd7ad;"><a href="https://www.instagram.com/" target="_blank">https://www.instagram.com</a></td>
+</tr>
+<tr>
+<td style="color: #fcd7ad; border: 2px inset gray;">CHROME</td>
+<td style="color: #fcd7ad; border: 2px inset gray;">FIREFOX</td>
+<td style="border: 2px inset gray; color: #fcd7ad;">TWITTER</td>
+<td style="border: 2px inset gray; color: #fcd7ad;"><a href="https://www.twitter.com/" target="_blank">https://www.twitter.com/en/</a></td></td>
+</tr>
+<tr>
+<td style="color: #fcd7ad; border: 2px inset gray;">CHROME</td>
+<td style="color: #fcd7ad; border: 2px inset gray;">FIREFOX</td>
+<td style="border: 2px inset gray; color: #fcd7ad;">GOOGLE</td>
+<td style="border: 2px inset gray; color: #fcd7ad;"><a href="https://www.google.com/" target="_blank">https://www.google.ph/</a></td></td>
+
+
+<tr>
+    <center>
+    <a href="PROJECT IN IPT.html">
+    <button id="b1" type="button" class="button">
+    <span>
+    <img src="button1.jpeg" alt="" width="50" height="50">
+    </span>
+    </button>
+    </a>
+    </tr>
+    </center>
+
+</tr>
+<tr>
+</table>
+<hr></hr>
+</center>
+</body>
+</html>
+
+(ACTIVITY 3)
+
+
+
+<html>
+<head>
+<title>3rd Activity</title>
+</head>
+<style>
+body {
+    background-image: url('yellow.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border: white 3px;
+    border-style: double;
+    border-radius: 10px;
+}
+button {
+    display: inline-flexbox;
+    height: 70px;
+    width: 70px;
+    padding: 0px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: bisque;
+    align-content: center;
+    margin: 3%;
+    border-color: transparent;
+    border-radius: 50px;
+}
+</style>
+<center>
+<h1>My 3rd Activity </h1>
+<p1>
+<h2><a href="https://Www.Facebook.com/"target=_blank"><img src="Fb.png" width="100px" height="100px" ></a>
+<h3>pinili ko din po yung Facebook kase mas napapadali ang communication. Kahit na wala kang load magagamit mo ang facebook para makusap mo ang mga taong gusto mo makausap kahit na malayo at wala kang load.</h3>
+</h2>
+</p1>
+
+<p1>
+<h2><a href="https://Www.Youtube.com/"target=_blank"><img src="Yt.png" width="100px" height="100px" ></a>
+<h3>pinili ko din po yung youtube kase isa din po itong source ng information. Maraming matututunan na trivia and tutorials.</h3>
+</h2>
+</p1>
+
+<p1>
+<h2><a href="https://Www.Instagram.com/"target=_blank"><img src="ig.jpeg" width="100px" height="100px" ></a>
+<h3>pinili ko din po ang instagram bukod sa mas mapapadali ang communication mas naeexpress mo ang iyong sarili sa pamamagitan ng pag aaupload ng pictures and videos kahit tiktok.</h3>
+</h2>
+</p1>
+
+<p1>
+<h2><a href="https://Www.Twitter.com/"target=_blank"><img src="Tw.png" width="100px" height="100px" ></a>
+<h3>isa din po sa pinili ko yung twitter dahil napapadali din po ang pakikipag socialize ko sa ibang tao at nauupdte sa mga new</h3>
+</h2>
+</p1>
+
+<p1>
+<h2><a href="https://Www.Google.com/"target=_blank"><img src="Google.jpeg" width="100px" height="100px" ></a>
+<h3>pinili ko po yung google kase jan kumukuha ng information. Bukod s information marami kang matututunan. Source ng information din ang google.</h3>
+</h2>
+</p1>
+
+<a href="MENU.html">
+    <button id="b1" type="button" class="button">
+        <span>
+            <img src="button1.jpeg" alt="MENU" width="50" height="50">
+        </span>
+    </button>
+</a>
+
+</center>
+</body>
+</html>
+
+
+(ACTIVITY 4)
+
+-MENU
+<!DOCTYPE html>
+<html>
+<head>
+<title>MENU</title>
+<style>
+    body {
+        background-image: url('yellow.jpeg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        border: white 3px;
+        border-style: double;
+        border-radius: 10px;
+        padding-bottom: 500px;
+    }
+    .button {
+        display: inline-flexbox;
+        height: 70px;
+        width: 70px;
+        padding: 0px;
+        border-radius: 50px;
+        overflow: hidden;
+        background-color: rgb(255, 98, 125);
+        align-content: center;
+        margin: 3%;
+        border-color: transparent;
+    }
+    h1 {
+        border: 5px solid black;
+        outline-style: outset;
+    }
+    td {
+        word-wrap: break-word;
+        background-color: rgb(255, 137, 156);
+        opacity: 65%;
+        text-align: center  ;
+   
+    hr {
+        color: antiquewhite;
+    }
+    #d1 {
+        background-color: Yellow;
+        color: white;
+    }
+    #d2 {
+        background-color: transparent;
+        color: white;
+    }
+    #b2:hover{
+        background-color:rgb(204, 128, 255); transform: scale(1.2);
+    }
+    #b1:hover{
+        background-color:rgb(252, 222, 126); transform: scale(1.2);
+    }
+    h1:hover {background-color: rgb(182, 126, 235); transform: scale(.9);}
+    h3:hover {background-color: rgb(182, 126, 235); transform: scale(1.3)}
+    td:hover {background-color: rgb(182, 126, 235); transform: matrix3d(1.3)}
+</style>
+</head>
+<center>
+
+    <h1>MENU</h1>
+
+</center>
+<body>
+<form>
+    <center>
+        <table>
+        <hr>
+            <tr>
+                <td id="d1"><a href="Activity 4.html">
+                    <button id="b1" type="button" class="button">
+                        <span>
+                            <img src="note.jpeg" alt="button" width="50" height="50">
+                        </span>
+                    </button>
+                </a>BIOGRAPHY</td>
+                <td>This is page you can see my personal details and information about me and as you can see it have a picture of me</td>
+            </tr>
+            
+            
+            <tr>
+                <td id="d2"><a href="Activity 3.html">
+                    <button id="b2" type="button" class="button">
+                        <span>
+                            <img src="fav.png" alt="button" width="50" height="50">
+                        </span>
+                    </button>
+                </a>FAVORITE</td>
+                <td>This are my list of most favorites social media sites. Wherein i watch stuffs/videos, post some pictures and have some communication</td>
+            </tr>
+            
+            <tr>
+            <td id="d1"><a href="5(1).html">
+            <button id="b1" type="button" class="button">
+            <span>
+            <img src="family.png" alt="button" width="50" height="50">
+            </span>
+            </button>
+            </a>FAMILY</td>
+            <td>This is page you can see my family members and their information</td>
+            
+            
+           
+            </tr>
+        
+        <center>
+        <a href="PROJECT IN IPT.html">
+        <button id="b1" type="button" class="button">
+        <span>
+        <img src="button1.jpeg" alt="" width="50" height="50">
+        </span>
+        </button>
+        </a>
+        
+        
+        
+        
+        
+        </table>
+    </center>
+</form>
+</body>
+</html>
+
+(ACTIVITY 4)
+- PERSONAL INFORMATION
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>My 4TH Activity</title>
+</head>
+<style>
+body {
+    background-image: url('yellow.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border: white 3px;
+    border-style: double;
+    border-radius: 10px;
+}
+button {
+    display: inline-flexbox;
+    height: 70px;
+    width: 70px;
+    padding: 0px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: bisque;
+    align-content: center;
+    margin: 3%;
+    border-color: transparent;
+    border-radius: 50px;
+}
+h1 {
+    border: 5px solid black;
+    outline-style: outset;
+}
+td {
+    word-wrap: break-word;
+    background-color: rgb(255, 137, 156);
+    opacity: 65%;
+    text-align: center  ;
+   
+hr {
+    color: antiquewhite;
+}
+#d1 {
+    background-color: Yellow;
+    color: white;
+}
+#d2 {
+    background-color: transparent;
+    color: white;
+}
+#b2:hover{
+    background-color:rgb(204, 128, 255); transform: scale(1.2);
+}
+#b1:hover{
+    background-color:rgb(252, 222, 126); transform: scale(1.2);
+}
+h1:hover {background-color: rgb(182, 126, 235); transform: scale(.9);}
+h3:hover {background-color: rgb(182, 126, 235); transform: scale(1.3)}
+td:hover {background-color: rgb(182, 126, 235); transform
+</style>
+    <center>
+        <h1 style="border: 3px solid rgb(59, 9, 0);">Personal Information</h1>
+    </center>
+<nav>
+    <center><img src="pogi.jpg" width="200" height="200" style="border: 5px;"</center>
+</nav>
+</center>
+<center>
+<table>
+<tr>
+       <td>NAME:</td>
+       <td>MANAGUELOD, JOHSUA S.</td>
+   </tr>
+
+<tr>
+       <td>PLACE OF BIRTH:</td>
+       <td>QUEZON CITY</td>
+   </tr>
+   <tr>
+       <td>CIVIL STATUS:</td>
+       <td>SINGLE</td>
+   </tr>
+   <tr>
+       <td>RELIGION:</td>
+       <td>ROMAN CATHOLIC</td>
+   </tr>
+   <tr>
+       <td>CITIZENSHIP:</td>
+       <td>FILIPINO</td>
+   </tr>
+   <tr>
+       <td>HEIGHT:</td>
+       <td>5'9</td>
+   </tr>
+   </table>
+   </center>
+   
+   <center>
+   <a href="MENU.html">
+   <button id="b1" type="button" class="button">
+   <span>
+   <img src="button1.jpeg" alt="" width="50" height="50">
+   </span>
+   </button>
+   </a>
+   
+   <a href="5(1).html">
+   <button id="b1" type="button" class="button">
+   <span>
+   <img src="button1.jpeg" alt="" width="50" height="50">
+   </span>
+   </button>
+   </a>
+   </center>
+</table>
+</body>
+</html>
+
+
+(ACTIVITY 5)
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Family</title>
+<style>
+    body {
+        background-image: url('yellow.jpeg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        border: white 3px;
+        border-style: double;
+        border-radius: 10px;
+        padding-bottom: 500px;
+    }
+    .button {
+        display: inline-flexbox;
+        height: 70px;
+        width: 70px;
+        padding: 0px;
+        border-radius: 50px;
+        overflow: hidden;
+        background-color: rgb(255, 98, 125);
+        align-content: center;
+        margin: 3%;
+        border-color: transparent;
+    }
+    h1 {
+        border: 5px solid black;
+        outline-style: outset;
+    }
+    td {
+        word-wrap: break-word;
+        background-color: rgb(255, 137, 156);
+        opacity: 65%;
+        text-align: center  ;
+   
+    hr {
+        color: antiquewhite;
+    }
+    #d1 {
+        background-color: Yellow;
+        color: white;
+    }
+    #d2 {
+        background-color: transparent;
+        color: white;
+    }
+    #b2:hover{
+        background-color:rgb(204, 128, 255); transform: scale(1.2);
+    }
+    #b1:hover{
+        background-color:rgb(252, 222, 126); transform: scale(1.2);
+    }
+    h1:hover {background-color: rgb(182, 126, 235); transform: scale(.9);}
+    h3:hover {background-color: rgb(182, 126, 235); transform: scale(1.3)}
+    td:hover {background-color: rgb(182, 126, 235); transform: matrix3d(1.3)}
+</style>
+</head>
+<center>
+
+    <h1>My family</h1>
+
+</center>
+<body>
+<form>
+    <center>
+        <table>
+        <hr>
+            <tr>
+                <td id="d1"><a href="Activity 4.html">
+                    <button id="b1" type="button" class="button">
+                        <span>
+                            <img src="pogi.jpg" alt="button" width="70" height="70">
+                        </span>
+                    </button>
+                </a>ME</td>
+                <td>MANAUELOD, JOHSUA S. </td>
+           <td> 20 years old</td>
+           </tr>
+           
+           <tr>
+           <td id="d1"><a href="5(2).html">
+           <button id="b1" type="button" class="button">
+           <span>
+           <img src="tina.jpg" alt="button" width="70" height="70">
+           </span>
+           </button>
+           </a>BUNSO</td>
+           <td>MANAUELOD, ATHENA LORINE S. </td>
+           <td> 7 years old</td>
+           </tr>
+           
+           <tr>
+           <td id="d1"><a href="5(3).html">
+           <button id="b1" type="button" class="button">
+           <span>
+           <img src="ate.png" alt="button" width="60" height="70">
+           </span>
+           </button>
+           </a>ATE</td>
+           <td>MANAUELOD, CHRISTINE JOY S. </td>
+           <td> 23 years old</td>
+           </tr>
+           
+           <tr>
+           <td id="d1"><a href="5(4).html">
+           <button id="b1" type="button" class="button">
+           <span>
+           <img src="papa.jpg" alt="button" width="70" height="70">
+           </span>
+           </button>
+           </a>PAPA</td>
+           <td>MANAUELOD, JHOVEN D. </td>
+           <td> 44 years old</td>
+           </tr>
+           
+     <tr>      
+           <td id="d1"><a href="5(5).html">
+           <button id="b1" type="button" class="button">
+           <span>
+           <img src="mama.jpg" alt="button" width="70" height="70">
+           </span>
+           </button>
+           </a>MAMA</td>
+           <td>MANAGUELOD, ELENA S. </td>
+           <td> 50 years old</td>
+           </tr
+           
+           
+           <center>
+           <a href="MENU.html">
+           <button id="b1" type="button" class="button">
+           <span>
+           <img src="button1.jpeg" alt="" width="50" height="50">
+           </span>
+           </button>
+           </a>
+          
+           </table>
+           </center>
+           </form>
+           </body>
+           </html> 
+
+(5-2)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>My 5TH Activity</title>
+</head>
+<style>
+body {
+    background-image: url('yellow.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border: white 3px;
+    border-style: double;
+    border-radius: 10px;
+}
+button {
+    display: inline-flexbox;
+    height: 70px;
+    width: 70px;
+    padding: 0px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: bisque;
+    align-content: center;
+    margin: 3%;
+    border-color: transparent;
+    border-radius: 50px;
+}
+h1 {
+    border: 5px solid black;
+    outline-style: outset;
+}
+td {
+    word-wrap: break-word;
+    background-color: rgb(255, 137, 156);
+    opacity: 65%;
+    text-align: center  ;
+   
+hr {
+    color: antiquewhite;
+}
+#d1 {
+    background-color: Yellow;
+    color: white;
+}
+#d2 {
+    background-color: transparent;
+    color: white;
+}
+#b2:hover{
+    background-color:rgb(204, 128, 255); transform: scale(1.2);
+}
+#b1:hover{
+    background-color:rgb(252, 222, 126); transform: scale(1.2);
+}
+h1:hover {background-color: rgb(182, 126, 235); transform: scale(.9);}
+h3:hover {background-color: rgb(182, 126, 235); transform: scale(1.3)}
+td:hover {background-color: rgb(182, 126, 235); transform
+</style>
+    <center>
+        <h1 style="border: 3px solid rgb(59, 9, 0);">Personal Information</h1>
+    </center>
+<nav>
+    <center><img src="tina.jpg" width="200" height="200" style="border: 5px;"</center>
+</nav>
+</center>
+<center>
+<table>
+<tr>
+       <td>NAME:</td>
+       <td>MANAGUELOD, ATHENA LORINE S.</td>
+   </tr>
+
+<tr>
+       <td>PLACE OF BIRTH:</td>
+       <td>RODRIGUEZ, RIZAL</td>
+   </tr>
+   <tr>
+       <td>CIVIL STATUS:</td>
+       <td>SINGLE</td>
+   </tr>
+   <tr>
+       <td>RELIGION:</td>
+       <td>ROMAN CATHOLIC</td>
+   </tr>
+   <tr>
+       <td>CITIZENSHIP:</td>
+       <td>FILIPINO</td>
+   </tr>
+   <tr>
+       <td>HEIGHT:</td>
+       <td>4'5</td>
+   </tr>
+   </table>
+   </center>
+   
+   <center>
+   <a href="MENU.html">
+   <button id="b1" type="button" class="button">
+   <span>
+   <img src="button1.jpeg" alt="" width="50" height="50">
+   </span>
+   </button>
+   </a>
+   
+   <a href="5(1).html">
+   <button id="b1" type="button" class="button">
+   <span>
+   <img src="button1.jpeg" alt="" width="50" height="50">
+   </span>
+   </button>
+   </a>
+   </center>
+</table>
+</body>
+</html>
+
+
+(5-3)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>My 4TH Activity</title>
+</head>
+<style>
+body {
+    background-image: url('yellow.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border: white 3px;
+    border-style: double;
+    border-radius: 10px;
+}
+button {
+    display: inline-flexbox;
+    height: 70px;
+    width: 70px;
+    padding: 0px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: bisque;
+    align-content: center;
+    margin: 3%;
+    border-color: transparent;
+    border-radius: 50px;
+}
+h1 {
+    border: 5px solid black;
+    outline-style: outset;
+}
+td {
+    word-wrap: break-word;
+    background-color: rgb(255, 137, 156);
+    opacity: 65%;
+    text-align: center  ;
+   
+hr {
+    color: antiquewhite;
+}
+#d1 {
+    background-color: Yellow;
+    color: white;
+}
+#d2 {
+    background-color: transparent;
+    color: white;
+}
+#b2:hover{
+    background-color:rgb(204, 128, 255); transform: scale(1.2);
+}
+#b1:hover{
+    background-color:rgb(252, 222, 126); transform: scale(1.2);
+}
+h1:hover {background-color: rgb(182, 126, 235); transform: scale(.9);}
+h3:hover {background-color: rgb(182, 126, 235); transform: scale(1.3)}
+td:hover {background-color: rgb(182, 126, 235); transform
+</style>
+    <center>
+        <h1 style="border: 3px solid rgb(59, 9, 0);">Personal Information</h1>
+    </center>
+<nav>
+    <center><img src="ate.png" width="200" height="250" style="border: 5px;"</center>
+</nav>
+</center>
+<center>
+<table>
+<tr>
+       <td>NAME:</td>
+       <td>MANAGUELOD, CHRISTINE JOY S.</td>
+   </tr>
+
+<tr>
+       <td>PLACE OF BIRTH:</td>
+       <td>QUEZON CITY</td>
+   </tr>
+   <tr>
+       <td>CIVIL STATUS:</td>
+       <td>SINGLE</td>
+   </tr>
+   <tr>
+       <td>RELIGION:</td>
+       <td>ROMAN CATHOLIC</td>
+   </tr>
+   <tr>
+       <td>CITIZENSHIP:</td>
+       <td>FILIPINO</td>
+   </tr>
+   <tr>
+       <td>HEIGHT:</td>
+       <td>5'0</td>
+   </tr>
+   </table>
+   </center>
+   
+   <center>
+   <a href="MENU.html">
+   <button id="b1" type="button" class="button">
+   <span>
+   <img src="button1.jpeg" alt="" width="50" height="50">
+   </span>
+   </button>
+   </a>
+   
+   <a href="5(1).html">
+   <button id="b1" type="button" class="button">
+   <span>
+   <img src="button1.jpeg" alt="" width="50" height="50">
+   </span>
+   </button>
+   </a>
+   </center>
+</table>
+</body>
+</html>
+
+(5-4)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>My 4TH Activity</title>
+</head>
+<style>
+body {
+    background-image: url('yellow.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border: white 3px;
+    border-style: double;
+    border-radius: 10px;
+}
+button {
+    display: inline-flexbox;
+    height: 70px;
+    width: 70px;
+    padding: 0px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: bisque;
+    align-content: center;
+    margin: 3%;
+    border-color: transparent;
+    border-radius: 50px;
+}
+h1 {
+    border: 5px solid black;
+    outline-style: outset;
+}
+td {
+    word-wrap: break-word;
+    background-color: rgb(255, 137, 156);
+    opacity: 65%;
+    text-align: center  ;
+   
+hr {
+    color: antiquewhite;
+}
+#d1 {
+    background-color: Yellow;
+    color: white;
+}
+#d2 {
+    background-color: transparent;
+    color: white;
+}
+#b2:hover{
+    background-color:rgb(204, 128, 255); transform: scale(1.2);
+}
+#b1:hover{
+    background-color:rgb(252, 222, 126); transform: scale(1.2);
+}
+h1:hover {background-color: rgb(182, 126, 235); transform: scale(.9);}
+h3:hover {background-color: rgb(182, 126, 235); transform: scale(1.3)}
+td:hover {background-color: rgb(182, 126, 235); transform
+</style>
+    <center>
+        <h1 style="border: 3px solid rgb(59, 9, 0);">Personal Information</h1>
+    </center>
+<nav>
+    <center><img src="papa.jpg" width="200" height="200" style="border: 5px;"</center>
+</nav>
+</center>
+<center>
+<table>
+<tr>
+       <td>NAME:</td>
+       <td>MANAGUELOD, JHOVEN D.</td>
+   </tr>
+
+<tr>
+       <td>PLACE OF BIRTH:</td>
+       <td>ISABELA, CITY</td>
+   </tr>
+   <tr>
+       <td>CIVIL STATUS:</td>
+       <td>MARRIED</td>
+   </tr>
+   <tr>
+       <td>RELIGION:</td>
+       <td>ROMAN CATHOLIC</td>
+   </tr>
+   <tr>
+       <td>CITIZENSHIP:</td>
+       <td>FILIPINO</td>
+   </tr>
+   <tr>
+       <td>HEIGHT:</td>
+       <td>5'8</td>
+   </tr>
+   </table>
+   </center>
+   
+   <center>
+   <a href="MENU.html">
+   <button id="b1" type="button" class="button">
+   <span>
+   <img src="button1.jpeg" alt="" width="50" height="50">
+   </span>
+   </button>
+   </a>
+   
+   <a href="5(1).html">
+   <button id="b1" type="button" class="button">
+   <span>
+   <img src="button1.jpeg" alt="" width="50" height="50">
+   </span>
+   </button>
+   </a>
+   </center>
+</table>
+</body>
+</html>
+
+
+(5-5)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>My 4TH Activity</title>
+</head>
+<style>
+body {
+    background-image: url('yellow.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border: white 3px;
+    border-style: double;
+    border-radius: 10px;
+}
+button {
+    display: inline-flexbox;
+    height: 70px;
+    width: 70px;
+    padding: 0px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: bisque;
+    align-content: center;
+    margin: 3%;
+    border-color: transparent;
+    border-radius: 50px;
+}
+h1 {
+    border: 5px solid black;
+    outline-style: outset;
+}
+td {
+    word-wrap: break-word;
+    background-color: rgb(255, 137, 156);
+    opacity: 65%;
+    text-align: center  ;
+   
+hr {
+    color: antiquewhite;
+}
+#d1 {
+    background-color: Yellow;
+    color: white;
+}
+#d2 {
+    background-color: transparent;
+    color: white;
+}
+#b2:hover{
+    background-color:rgb(204, 128, 255); transform: scale(1.2);
+}
+#b1:hover{
+    background-color:rgb(252, 222, 126); transform: scale(1.2);
+}
+h1:hover {background-color: rgb(182, 126, 235); transform: scale(.9);}
+h3:hover {background-color: rgb(182, 126, 235); transform: scale(1.3)}
+td:hover {background-color: rgb(182, 126, 235); transform
+</style>
+    <center>
+        <h1 style="border: 3px solid rgb(59, 9, 0);">Personal Information</h1>
+    </center>
+<nav>
+    <center><img src="mama.jpg" width="200" height="200" style="border: 5px;"</center>
+</nav>
+</center>
+<center>
+<table>
+<tr>
+       <td>NAME:</td>
+       <td>MANAGUELOD, ELENA S.</td>
+   </tr>
+
+<tr>
+       <td>PLACE OF BIRTH:</td>
+       <td>SURIGAO DEL SUR</td>
+   </tr>
+   <tr>
+       <td>CIVIL STATUS:</td>
+       <td>MARRIED</td>
+   </tr>
+   <tr>
+       <td>RELIGION:</td>
+       <td>ROMAN CATHOLIC</td>
+   </tr>
+   <tr>
+       <td>CITIZENSHIP:</td>
+       <td>FILIPINO</td>
+   </tr>
+   <tr>
+       <td>HEIGHT:</td>
+       <td>5'5</td>
+   </tr>
+   </table>
+   </center>
+   
+   <center>
+   <a href="MENU.html">
+   <button id="b1" type="button" class="button">
+   <span>
+   <img src="button1.jpeg" alt="" width="50" height="50">
+   </span>
+   </button>
+   </a>
+   
+   <a href="5(1).html">
+   <button id="b1" type="button" class="button">
+   <span>
+   <img src="button1.jpeg" alt="" width="50" height="50">
+   </span>
+   </button>
+   </a>
+   </center>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+          
